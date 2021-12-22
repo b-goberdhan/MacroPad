@@ -1,0 +1,77 @@
+{
+    "name": "media",
+    "macros": {
+        "key1": {
+            "name": "vol+",
+            "color": "#0000FF",
+            "command": [["VOLUME_INCREMENT"]],
+            "sound": ""
+        },
+        "key3": {
+            "name": "vol-",
+            "color": "#0000FF",
+            "command": [["VOLUME_DECREMENT"]],
+            "sound": ""
+        },
+        "key2": {
+            "name": "mute",
+            "color": "#FF0000",
+            "command": [["MUTE"]],
+            "sound": ""
+        },
+        "key4": {
+            "name": "<<",
+            "color": "#000000",
+            "command": [["REWIND"]],
+            "sound": ""
+        },
+        "key5": {
+            "name": "play/pause",
+            "color": "#00FF00",
+            "command": [["PLAY_PAUSE"]],
+            "sound": ""
+        },
+        "key6": {
+            "name": ">>",
+            "color": "#000000",
+            "command": [["FAST_FORWARD"]],
+            "sound": ""
+        },
+        "key7": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key8": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key9": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key10": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key11": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key12": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "name": "fusion360-sketch",
+    "macros": {
+        "key1": {
+            "name": "start",
+            "color": "#FF00FF",
+            "command": ["s", "Create Sketch", "ENTER"],
+            "sound": ""
+        },
+        "key2": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key3": {
+            "name": "finish",
+            "color": "#FFFFFF",
+            "command": ["s", "Finish", "ENTER"],
+            "sound": ""
+        },
+        "key4": {
+            "name": "line",
+            "color": "#FFFFFF",
+            "command": ["l"],
+            "sound": ""
+        },
+        "key5": {
+            "name": "rect",
+            "color": "#FFFFFF",
+            "command": ["r"],
+            "sound": ""
+        },
+        "key6": {
+            "name": "circle",
+            "color": "#FFFFFF",
+            "command": ["c"],
+            "sound": ""
+        },
+        "key7": {
+            "name": "offset",
+            "color": "#000000",
+            "command": ["o"],
+            "sound": ""
+        },
+        "key8": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key9": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key10": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key11": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key12": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        }
+    }
+}

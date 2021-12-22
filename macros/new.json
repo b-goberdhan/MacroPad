@@ -1,0 +1,10 @@
+{
+    "name": "some new macro",
+    "macros": {
+        "key1": {
+            "name": "test",
+            "command": ["Wow this is some neat text dawg"],
+            "tone": 255
+        }
+    }
+}

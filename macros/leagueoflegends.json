@@ -1,0 +1,72 @@
+{
+    "name": "league-of-legends",
+    "macros": {
+       
+        "key2": {
+            "name": "surrender",
+            "color": "#FF0000",
+            "command": ["ENTER", "/ff", "ENTER"],
+            "sound": ""
+        },
+        "key3": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key4": {
+            "name": "all-gg",
+            "color": "#FFFFFF",
+            "command": ["ENTER", "/all gg", "ENTER"],
+            "sound": ""
+        },
+        "key5": {
+            "name": "",
+            "color": "#000000",
+            "command": [""],
+            "sound": ""
+        },
+        "key6": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key7": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key8": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key9": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key10": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key11": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key12": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        }
+    }
+}

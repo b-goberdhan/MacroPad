@@ -1,0 +1,78 @@
+{
+    "name": "discord-mac",
+    "macros": {
+        "key1": {
+            "name": "mute",
+            "color": "#FFFFFF",
+            "command": ["COMMAND", "SHIFT", "M"],
+            "sound": "",
+            "tone": 255
+        },
+        "key2": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key3": {
+            "name": "deafen",
+            "color": "#FFFFFF",
+            "command": ["COMMAND", "SHIFT", "D"],
+            "sound": ""
+        },
+        "key4": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key5": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key6": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key7": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key8": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key9": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key10": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key11": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        },
+        "key12": {
+            "name": "",
+            "color": "#000000",
+            "command": [],
+            "sound": ""
+        }
+    }
+}
