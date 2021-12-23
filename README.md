@@ -1,5 +1,14 @@
 # MacroPad
 
+## Assembling the MacroPad:
+
+Look at the Macropad Assembly section
+
+https://learn.adafruit.com/adafruit-macropad-rp2040?view=all&gclid=CjwKCAiAtouOBhA6EiwA2nLKH6kfSC8FTBYlLXd9zAAeiT7fKAlTvC-rl2gZ1TBr0BpRnYKLDv0f4RoCyboQAvD_BwE
+
+
+Once done assembling -- plug in the board and your good to go!
+
 ## How to create a macro
 
 1. Create a .json file. example: my-macro.json
