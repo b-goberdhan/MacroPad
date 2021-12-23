@@ -63,6 +63,8 @@
     - `sound`: a sound file (mp3) that is played when the key is pressed.
     - `tone`: a tone that is played when key is pressed.
 
+***Note that you do not have to specify every key, you can opt to specify only the keys that you will use!***
+
 ## Defining a command
 
 There are 3 types of commands that you can issue:
@@ -451,3 +453,8 @@ This will play a simple tone when `key1` is clicked. The number for the tone sho
 ```
 
 You can define the color of the key by specifying a HEX color. You can get the HEX value of a color from here: https://www.color-hex.com/
+
+## Adjusting brightness
+
+In order to adjust the brightness you just have to push down the rotary knob. It will cycle between various brightness.
+
