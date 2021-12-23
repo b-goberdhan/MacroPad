@@ -439,3 +439,15 @@ This will play a sound file when `key1` is clicked. The file must be stored with
 ```
 
 This will play a simple tone when `key1` is clicked. The number for the tone should be greater than 0.
+
+## Defining color
+
+```json
+"key1": {
+    "name": "my-key",
+    "command": [],
+    "color": "#FFFFFF"
+}
+```
+
+You can define the color of the key by specifying a HEX color. You can get the HEX value of a color from here: https://www.color-hex.com/
