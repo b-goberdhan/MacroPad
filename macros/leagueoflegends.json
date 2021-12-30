@@ -5,7 +5,7 @@
         "key2": {
             "name": "surrender",
             "color": "#FF0000",
-            "command": ["ENTER", "/ff", "ENTER"],
+            "command": ["ENTER", "", "FORWARD_SLASH", "ff", "ENTER"],
             "sound": ""
         },
         "key3": {
@@ -17,8 +17,9 @@
         "key4": {
             "name": "all-gg",
             "color": "#FFFFFF",
-            "command": ["ENTER", "/all gg", "ENTER"],
-            "sound": ""
+            "command": ["ENTER", "", "FORWARD_SLASH", "all gg", "ENTER"],
+            "sound": "",
+			"tone": 255
         },
         "key5": {
             "name": "",
@@ -27,9 +28,9 @@
             "sound": ""
         },
         "key6": {
-            "name": "",
+            "name": "nick-sucks",
             "color": "#000000",
-            "command": [],
+            "command": ["ENTER","", "","", "haha nick sucks", "ENTER"],
             "sound": ""
         },
         "key7": {

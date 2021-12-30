@@ -1,0 +1,15 @@
+{
+    "name": "chrome-mac",
+    "macros": {
+        "key1": {
+            "name": "inspect",
+            "command": ["F12"],
+            "color": "#FFFFFF"
+        },
+        "key3": {
+            "name": "refresh",
+            "command": ["COMMAND", "R"],
+            "color": "#FFFF00"
+        }
+    }
+}
