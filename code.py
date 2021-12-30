@@ -84,10 +84,10 @@ def handleCommands():
 while True:
     
     currentMacroIndex = macropad.encoder % len(macros)
+    handleCommands()
     if currentMacroIndex >= len(macros):
         currentMacroIndex = 0
     
-    handleCommands()
     displayMacro(currentMacro, displayGroup)
     currentMacro = macros[currentMacroIndex]
 
